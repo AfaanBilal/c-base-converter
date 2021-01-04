@@ -1,7 +1,7 @@
 Base Converter
 ==============
 
-Author: **[Afaan Bilal](https://afaan.me)**  
+Author: **[Afaan Bilal](https://afaan.dev)**  
 
 ## Introduction
 **Base Converter** is a C program that converts numbers between bases.
